@@ -1,0 +1,18 @@
+<svg width="24" height="28" viewBox="0 0 24 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="20" height="24" fill="white"/>
+<rect x="0.5" y="0.5" width="20" height="24" stroke="#1F3047"/>
+<rect x="3.5" y="3.5" width="20" height="24" fill="white"/>
+<rect x="3.5" y="3.5" width="20" height="24" stroke="#1F3047"/>
+<rect x="5.5" y="5.5" width="16" height="20" fill="#E4E9F1"/>
+<rect x="5.5" y="5.5" width="16" height="20" stroke="#949AA5"/>
+<path d="M8 21H16V22H8V21Z" fill="#7D8FA3"/>
+<path d="M8 18H16V19H8V18Z" fill="#7D8FA3"/>
+<path d="M8 12H19V13H8V12Z" fill="#7D8FA3"/>
+<path d="M8 9H19V10H8V9Z" fill="#7D8FA3"/>
+<path d="M8 15H19V16H8V15Z" fill="#7D8FA3"/>
+<rect width="11" height="1" transform="translate(8 8)" fill="#1F3047"/>
+<rect width="11" height="1" transform="translate(8 11)" fill="#1F3047"/>
+<rect width="11" height="1" transform="translate(8 14)" fill="#1F3047"/>
+<rect width="8" height="1" transform="translate(8 17)" fill="#1F3047"/>
+<rect width="8" height="1" transform="translate(8 20)" fill="#1F3047"/>
+</svg>
